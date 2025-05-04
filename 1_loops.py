@@ -1,5 +1,21 @@
 # Example Practice:
-# Print the numbers 1 to 10 using a for loop.
+# Given this list of fruits:
+fruits = ["apple", "banana", "cherry", "date"]
 
 # Challenge:
-# Print the phrase "Keep going!" exactly 5 times.
+# Use a for loop to print each fruit on a new line.
+
+
+# Given a list of school subjects:
+subjects = ["Math", "Science", "History", "Art"]
+
+# Challenge:
+# Use a for loop and range to print each subject along with its index:
+# Example output: "Subject 0: Math"
+
+
+# Given:
+numbers = [5, 10, 15, 20]
+
+# Challenge:
+# Use a for loop to add all the numbers and print the total.
